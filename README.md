@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **freelance-surgeon/freelance-surgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
