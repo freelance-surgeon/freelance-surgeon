@@ -5,3 +5,15 @@
 
 <img width="1000" alt="mri" src="https://github.com/user-attachments/assets/db55ebbc-7ba6-4a0f-97fe-8a392146450b" />
 
+
+<details>
+  <summary>
+    $\color{#820000}{\text{ extra. }}$ 
+  </summary>
+  <br>
+
+account mostly used for social linking purposes, might reuse in future. 
+thank you to whoever did this. <img width="422" height="51" alt="image" src="https://github.com/user-attachments/assets/c7c0fd6f-ebed-46a1-8010-d3fa842e2e54" />
+
+
+</details>
