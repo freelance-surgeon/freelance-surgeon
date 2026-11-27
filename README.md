@@ -12,8 +12,8 @@
   </summary>
   <br>
 
-account mostly used for social linking purposes, might reuse in future. <br>
-thank you to whoever did this. <img width="422" height="51" alt="image" src="https://github.com/user-attachments/assets/c7c0fd6f-ebed-46a1-8010-d3fa842e2e54" />
-
+Account mostly used for social linking purposes, might reuse in future. <br>
+For contacting me, use https://freelancesurgeon.atabook.org. 
+Thank you to whoever did this. <br><img width="422" height="51" alt="image" src="https://github.com/user-attachments/assets/c7c0fd6f-ebed-46a1-8010-d3fa842e2e54" />
 
 </details>
