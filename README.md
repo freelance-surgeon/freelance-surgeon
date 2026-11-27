@@ -8,11 +8,11 @@
 
 <details>
   <summary>
-    $\color{#820000}{\text{ extra. }}$ 
+    $\color{#87b0cc}{\text{ extra. }}$ 
   </summary>
   <br>
 
-account mostly used for social linking purposes, might reuse in future. 
+account mostly used for social linking purposes, might reuse in future. <br>
 thank you to whoever did this. <img width="422" height="51" alt="image" src="https://github.com/user-attachments/assets/c7c0fd6f-ebed-46a1-8010-d3fa842e2e54" />
 
 
