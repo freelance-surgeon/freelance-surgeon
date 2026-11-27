@@ -14,6 +14,6 @@
 
 Account mostly used for social linking purposes, might reuse in future. <br>
 For contacting me, use https://freelancesurgeon.atabook.org. <br><br>
-Thank you for recognition. <br><img width="422" height="51" alt="image" src="https://github.com/user-attachments/assets/c7c0fd6f-ebed-46a1-8010-d3fa842e2e54" />
+Thank you for recognition. <br><img width="401" height="39" alt="image" src="https://github.com/user-attachments/assets/da19e18a-091a-44a0-be74-8cad2c77e2d0" />
 
 </details>
